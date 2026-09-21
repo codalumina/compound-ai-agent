@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+youtube_assets/
+
+setup_board.sh
